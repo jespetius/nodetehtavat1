@@ -1,0 +1,15 @@
+{
+  "name": "nodetehtavat1",
+  "version": "1.0.0",
+  "description": "tehtavat1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
